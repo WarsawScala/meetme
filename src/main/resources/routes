@@ -1,0 +1,1 @@
+PUT /position/:id/:lat/:long pl.warsawscalania.meetme.controller.Meetme.position(id, lat, long)
